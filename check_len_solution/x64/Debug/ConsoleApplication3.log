@@ -1,0 +1,32 @@
+﻿  ConsoleApplication3.cpp
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(6,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(7,9): error C2065: mov: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(7,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(7,13): error C2065: esi: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,13): error C2065: eax: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,16): error C3192: синтаксическая ошибка: "^" не является префиксным оператором (возможно, имелось в виду "*"?)
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,18): error C2065: eax: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(9,9): error C2065: mov: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(9,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edi"
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(9,13): error C2065: edi: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,9): error C2065: dec: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edi"
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,13): error C2065: edi: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(12,9): error C2065: inc: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(12,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(12,13): error C2065: eax: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(13,9): error C2065: mov: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(13,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bl"
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(13,13): error C2065: bl: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(13,22): error C2760: синтаксическая ошибка: непредвиденный элемент "+". Ожидается ","
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(13,24): error C2065: eax: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(13,27): error C2059: синтаксическая ошибка: ]
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(14,9): error C2065: cmp: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bl"
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(14,13): error C2065: bl: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(15,9): error C2065: jne: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(15,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "myloop"
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(15,13): error C2065: myloop: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(16,9): error C2065: mov: необъявленный идентификатор
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(16,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "length"
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(16,21): error C2065: eax: необъявленный идентификатор

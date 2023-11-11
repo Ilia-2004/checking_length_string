@@ -1,0 +1,6 @@
+﻿  ConsoleApplication3.cpp
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,13): warning C4405: str: идентификатор является зарезервированным словом
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,13): error C2443: конфликт размеров операндов
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(16,17): warning C4405: str: идентификатор является зарезервированным словом
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(16,17): error C2443: конфликт размеров операндов
+F:\Ilya\Programming\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(22,13): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "первый операнд"; обнаружено ","
